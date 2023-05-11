@@ -5,4 +5,5 @@
     <color name="white">#FFFFF3</color>
     <color name="red">#FF4265</color>
     <color name="black">#000000</color>
+    <color name="introTextColor">#455A64</color>
 </resources>

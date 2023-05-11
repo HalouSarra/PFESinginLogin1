@@ -96,6 +96,7 @@
         app:layout_constraintStart_toStartOf="@+id/inputLocation"
         app:layout_constraintTop_toBottomOf="@+id/inputLocation" />
 
+
     <TextView
         android:id="@+id/alreadyHaveAcc"
         android:layout_width="wrap_content"
@@ -105,6 +106,7 @@
         app:layout_constraintEnd_toEndOf="@+id/btnSingin"
         app:layout_constraintStart_toStartOf="@+id/btnSingin"
         app:layout_constraintTop_toBottomOf="@+id/btnSingin" />
+
 
     <EditText
         android:id="@+id/inputLocation"
